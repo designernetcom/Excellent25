@@ -9961,6 +9961,7 @@ ul[class*="list-"] {
     text-align: center;
     vertical-align: middle;
     padding: 10px;
+    border: 2px solid black !important;
 }
 
 .owl-carousel .ow-client-logo img {
@@ -11005,7 +11006,7 @@ ul[class*="list-"] {
 
 .dlab-social-icon {
     display: inline-block;
-    margin: 0 -3px;
+    margin: 0 -5px;
     padding: 0;
 }
 
